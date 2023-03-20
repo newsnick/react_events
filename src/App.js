@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import styles from './assets/Styles/App.css'
-import PostData from './Components/PostData/PostData'
+import PostData from './assets/Components/PostData/PostData'
 
 function App() {
   const [postId, setPostId] = useState('')

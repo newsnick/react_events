@@ -1,0 +1,6 @@
+.message {
+  padding: '10px';
+  backgroundcolor: 'lightgray';
+  borderradius: '5px';
+  transition: 'opacity 0.5s ease-in-out';
+}
